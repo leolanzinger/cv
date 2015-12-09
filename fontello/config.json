@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "9ea0a737ccc45d6c510dcbae56058849",
+      "css": "music",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "500fc1f109021e4b1de4deda2f7ed399",
+      "css": "mac",
+      "code": 59394,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ef74ff62feda486fd414410e782b598a",
+      "css": "study",
+      "code": 59392,
+      "src": "entypo"
+    }
+  ]
+}

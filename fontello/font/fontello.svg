@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2014 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="music" unicode="&#xe801;" d="m857 725v-625q0-28-19-50t-48-33t-58-18t-53-6t-54 6t-58 18t-48 33t-19 50t19 50t48 33t58 18t54 6q58 0 107-22v300l-429-132v-396q0-28-19-50t-48-33t-58-18t-53-6t-54 6t-58 18t-48 33t-19 50t19 50t48 34t58 17t54 6q58 0 107-21v539q0 17 10 32t28 19l464 143q7 3 16 3q22 0 38-16t15-38z" horiz-adv-x="857.1" />
+<glyph glyph-name="mac" unicode="&#xe802;" d="m232 136q-37 0-63 26t-26 63v393q0 37 26 63t63 26h607q37 0 63-26t27-63v-393q0-37-27-63t-63-26h-607z m-18 482v-393q0-7 6-13t12-5h607q8 0 13 5t5 13v393q0 7-5 12t-13 6h-607q-7 0-12-6t-6-12z m768-518h89v-54q0-22-26-37t-63-16h-893q-36 0-63 16t-26 37v54h982z m-402-54q9 0 9 9t-9 9h-89q-9 0-9-9t9-9h89z" horiz-adv-x="1071.4" />
+<glyph glyph-name="study" unicode="&#xe800;" d="m166 238l334-168l276 136q-4-22-8-47t-6-35t-11-23t-24-23t-45-22q-40-18-80-41t-63-34t-39-11t-40 13t-64 37t-80 40q-72 32-103 69t-47 109z m810 246q24-14 24-33t-24-33l-78-44l-308 102q-22 36-90 36q-40 0-67-16t-27-40t27-40t67-16q26 0 36 4l292-68l-268-152q-60-32-120 0l-416 234q-24 14-24 33t24 33l416 234q60 32 120 0z m-128-442q18 116 13 182t-19 90l-14 22l70 38q6-8 12-28t17-101t-7-197q-4-26-22-30t-35 5t-15 19z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
